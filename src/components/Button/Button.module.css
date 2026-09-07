@@ -1,0 +1,10 @@
+.customButton {
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+}
+
+.customButtonHovered {
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    background-color: aquamarine;
+}

@@ -1,0 +1,9 @@
+.LikeButtonActive{
+    background-color: blue;
+    color: blue;
+}
+
+.LikeButtonInactive{
+    background-color: yellow;
+    color: yellow;
+}
